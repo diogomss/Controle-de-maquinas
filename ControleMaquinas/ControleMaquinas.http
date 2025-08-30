@@ -1,0 +1,6 @@
+@ControleMaquinas_HostAddress = http://localhost:5108
+
+GET {{ControleMaquinas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
